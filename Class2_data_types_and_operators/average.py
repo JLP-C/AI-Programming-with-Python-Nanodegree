@@ -15,4 +15,4 @@ print (mean([23,32,64]))
 from Numpy import mean
 print (mean([23,32,64]))
 
-# Testeando github synchro credentials
+# Testeando github synchro credentials test III: SSH
