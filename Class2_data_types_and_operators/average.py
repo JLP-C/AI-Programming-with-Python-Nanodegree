@@ -1,4 +1,4 @@
-# Calculate the average of 23, 32 and 64
+﻿# Calculate the average of 23, 32 and 64
 
 # Mode1: direct
 print ((23+32+64)/3)
@@ -14,3 +14,5 @@ print (mean([23,32,64]))
 # Mode2: Numpy (librería que hay que instalar aparte)
 from Numpy import mean
 print (mean([23,32,64]))
+
+# Testeando github synchro credentials
